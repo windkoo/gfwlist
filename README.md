@@ -1,0 +1,2 @@
+# gfwlist
+gfwlist for shadowsocks
