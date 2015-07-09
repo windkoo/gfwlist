@@ -2,6 +2,8 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "html5rocks.com":1,
+  "amazonaws.com":1,
   "sache.in":1,
   "polymer-project.org":1,
   "chrome.com":1,
