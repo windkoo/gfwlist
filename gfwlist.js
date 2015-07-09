@@ -3,11 +3,19 @@
 
 var domains = {
   "sache.in":1,
+  "protractortest.org":1,
   "polymer-project.org":1,
   "chrome.com":1,
-  "android.com":1,
   "angularjs.org":1,
-  "android.com":1,
+  "initializr.com":1,
+  "joyetech.com":1,
+  "ghost.org":1,
+  "wrapbootstrap.com":1,
+  "firestr.com":1,
+  "ivomynttinen.com":1,
+  "deviantart.com":1,
+  "v2ex.com":1,
+  "smoktech.com":1,
   "ggpht.com":1,
   "gimpshop.com": 1,
   "directcreative.com": 1,
@@ -2444,7 +2452,11 @@ var domains = {
   "lookatgame.com": 1,
   "darpa.mil": 1,
   "wtfpeople.com": 1,
-  "1-apple.com.tw": 1
+  "1-apple.com.tw": 1,
+  "android.com": 1,
+  "t66y.com": 1,
+  "gufeng.net": 1
+
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
